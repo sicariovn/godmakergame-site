@@ -18,7 +18,7 @@ main {
   padding: 28px 16px 64px;
 }
 header { text-align: center; margin-bottom: 18px; }
-header img { width: 72px; height: 72px; }
+header img { width: 84px; height: 84px; border-radius: 22%; }
 h1 { font-family: "Grandstander", system-ui, sans-serif; font-size: 2rem; margin: 6px 0; }
 h2 { font-family: "Grandstander", system-ui, sans-serif; margin-top: 1.8em; }
 .card {
